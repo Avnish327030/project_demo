@@ -3,6 +3,7 @@
 ```
 git clone https://github.com/Avnish327030/project_demo.git
 ```
+## close your terminal open project_demo folder
 
 ## To fetch updated remote repo
 ```
